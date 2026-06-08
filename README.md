@@ -12,6 +12,7 @@
 
 ### Identity & Access Security
 - **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
+- **AWS Cloud Console Delopment & Hardening**-  Secure server with IAM policy.
 
 ### Vulnerability & Risk Management
 - **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
